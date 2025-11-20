@@ -2,4 +2,3 @@ pyrogram
 tgcrypto
 requests
 aiohttp
-sqlite3
