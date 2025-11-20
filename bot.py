@@ -791,4 +791,7 @@ async def main():
         await bot.stop()
 
 if __name__ == "__main__":
+    print("🚀 Starting Bot...")
+    print(f"API_ID: {API_ID}")
+    print(f"Admin: {ADMIN_ID}")
     asyncio.run(main())
